@@ -1,0 +1,7 @@
+venv
+src/get_raw_image.py
+src/notebooks/data
+src/notebooks/config
+mapbiomas_alerta_consumer/src/data
+src/notebooks
+src/data
